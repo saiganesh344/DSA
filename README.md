@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saiganesh344/DSA/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/saiganesh344/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
