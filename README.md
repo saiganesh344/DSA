@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saiganesh344/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saiganesh344/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/saiganesh344/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/saiganesh344/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/saiganesh344/DSA/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saiganesh344/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
