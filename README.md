@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saiganesh344/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiganesh344/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/saiganesh344/DSA/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/saiganesh344/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/saiganesh344/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiganesh344/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/saiganesh344/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
