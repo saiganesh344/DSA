@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saiganesh344/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saiganesh344/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saiganesh344/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saiganesh344/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -21,4 +23,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saiganesh344/DSA/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/saiganesh344/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
