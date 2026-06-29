@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saiganesh344/DSA/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/saiganesh344/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
