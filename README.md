@@ -35,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saiganesh344/DSA/tree/master/0005-longest-palindromic-substring) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/saiganesh344/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Sorting
 |  |
@@ -43,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saiganesh344/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiganesh344/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
@@ -52,4 +54,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/saiganesh344/DSA/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saiganesh344/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saiganesh344/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
